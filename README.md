@@ -1,4 +1,7 @@
 "INTEGRATED PLATFORM FOR VALIDATING THE CERTIFICATES"
+               
+               
+               
                This project focuses on creating a secure and reliable platform for academic certificate validation using Blockchain technology. By leveraging the immutable and tamper-proof nature of blockchain, the system ensures the authenticity and integrity of certificates, reducing the risks of forgery and unauthorized modifications.
 HARDWARE REQUIREMENTS:
 Processor: Intel i3
